@@ -879,6 +879,16 @@ footer .credits {
       float: none;
       text-align: center;
     }
+    footer .copyright {
+    float: left;
+    font-size: 10px;
+    color:black;
+}
+footer .credits {
+    float: right;
+    font-size: 10px;
+    color: black;
+  }
   }
 
   #myBtn {
